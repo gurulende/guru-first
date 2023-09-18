@@ -1,2 +1,2 @@
 # guru-first
-authour:- Gurushant Lende
+authour:- Gurushant (changes)
